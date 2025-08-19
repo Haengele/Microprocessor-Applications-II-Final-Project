@@ -1,0 +1,1 @@
+This is an archive of my Microprocessor Applications II Final Project. This project is designed to run on a board provided by the class using the TI TM4C123GH6PM, and was uploaded with Code Composer Studio.
